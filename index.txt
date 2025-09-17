@@ -5,5 +5,5 @@
 Что-нибудь еще напишем
 
 <?php 
-  echo $hello;
+  echo $user;
 ?>
